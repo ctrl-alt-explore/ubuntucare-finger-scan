@@ -13,25 +13,29 @@ This project uses a standard webcam and signal-processing techniques to detect h
 ## Getting Started
 
 Clone the repository:
-\`\`\`bash
+
+```bash
 git clone https://github.com/your-username/finger-ppg.git
 cd finger-ppg
-\`\`\`
+```
 
 Install dependencies:
-\`\`\`bash
+
+```bash
 npm install
-\`\`\`
+```
 
 Run the app:
-\`\`\`bash
+
+```bash
 npm run dev
-\`\`\`
+```
 
 Open in your browser:
-\`\`\`
+
+```
 http://localhost:5173
-\`\`\`
+```
 
 ## How to Use
 
@@ -49,7 +53,7 @@ http://localhost:5173
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── components/
 │ └── FingerScan.jsx
@@ -58,7 +62,7 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── style.css
-\`\`\`
+```
 
 ## Scientific Basis
 
