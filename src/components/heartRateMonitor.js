@@ -87,7 +87,10 @@ export function createHeartRateMonitor() {
       const track = stream.getVideoTracks()[0];
       await track.applyConstraints({ advanced: [{ torch: status }] });
     } catch (error) {
-      alert("Starting torch failed.\nError: " + error.message);
+      alert(
+        "Starting torch failed.\nError: " +
+          "Torch not supported on this device."
+      );
     }
   };
 
