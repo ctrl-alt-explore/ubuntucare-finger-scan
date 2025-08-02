@@ -1,4 +1,4 @@
-echo "# Finger PPG – Heart Rate Detection via Webcam
+# Finger PPG – Heart Rate Detection via Webcam
 
 This project uses a standard webcam and signal-processing techniques to detect heart rate (BPM) from fingertip photoplethysmography (PPG). Built with React and Vite, it captures real-time video, analyzes color variation in the fingertip, and displays pulse activity on a live chart.
 
