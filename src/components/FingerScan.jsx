@@ -20,7 +20,7 @@ export default function FingerScan() {
       graphColor:
         getComputedStyle(document.documentElement).getPropertyValue(
           "--graph-color"
-        ) || "#1e88e5",
+        ) || "#2866eb",
       graphWidth: 6,
       onBpmChange: (bpm) => {
         if (bpmRef.current) bpmRef.current.innerText = bpm;

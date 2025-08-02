@@ -235,7 +235,7 @@ export function createHeartRateMonitor() {
     VIDEO_ELEMENT = config.videoElement;
     SAMPLING_CANVAS = config.samplingCanvas;
     GRAPH_CANVAS = config.graphCanvas;
-    GRAPH_COLOR = config.graphColor || "#1e88e5";
+    GRAPH_COLOR = config.graphColor || "#2866eb";
     GRAPH_WIDTH = config.graphWidth || 6;
     ON_BPM_CHANGE = config.onBpmChange;
 

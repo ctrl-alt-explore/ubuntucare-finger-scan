@@ -12,14 +12,14 @@
   border-radius: 50%;
   width: 120px;
   height: 120px;
-  background-color: #1e88e5;
+  background-color: #2866eb;
   margin: 1rem auto;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   user-select: none;
-  box-shadow: 0 0 10px #1e88e5;
+  box-shadow: 0 0 10px #2866eb;
 }
 
 #bpm-display output {
