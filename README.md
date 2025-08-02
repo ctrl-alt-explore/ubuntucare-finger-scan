@@ -15,8 +15,8 @@ This project uses a standard webcam and signal-processing techniques to detect h
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/finger-ppg.git
-cd finger-ppg
+git clone https://github.com/ctrl-alt-explore/finger-scan-frontend.git
+cd finger-scan-frontend
 ```
 
 Install dependencies:
@@ -55,13 +55,14 @@ http://localhost:5173
 
 ```
 src/
+├── assets/
 ├── components/
 │ └── FingerScan.jsx
-├── utils/
 │ └── heartRateMonitor.js
+| └── style.css
 ├── App.jsx
 ├── main.jsx
-└── style.css
+
 ```
 
 ## Scientific Basis
