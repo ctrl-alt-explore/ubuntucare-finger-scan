@@ -41,7 +41,7 @@ http://localhost:5173
 
 1. Place your fingertip directly over the webcam lens.
 2. Ensure stable lighting conditions.
-3. Click \"Start Monitoring\".
+3. Click \"Circle\".
 4. Observe the live BPM output.
 
 ## Features
